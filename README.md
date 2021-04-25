@@ -11,7 +11,6 @@ I'm interested in the following areas 👇
 Currently in the works 👇
 - Currently working on expanding my knowledge of the tech industry
 - Currently learning back-end web development and Android development
-- Incoming intern at G-HiTech for Summer 2021
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chel-mico&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chel-mico&cache_seconds=1800&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,8 +28,8 @@ I love working with the following languages
 
 Feel free to reach out to me anytime!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya%20Madan-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityamadan23/)
-[![Gmail Badge](https://img.shields.io/badge/-aditya.madan7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aditya.madan7@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Endreas%20Yohannes-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/endreas-yohannes-077121208/)
+[![Gmail Badge](https://img.shields.io/badge/-endreas@hotmail.ca-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:endreas@hotmail.ca)
 
 <!--
 **chel-mico/chel-mico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
