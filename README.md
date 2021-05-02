@@ -1,21 +1,22 @@
-### Hi there 👋 I'm Endreas
+### Hi, I'm Endreas
 
 I'm currently a freshman planning on pursuing a Honours Bachelor of Science in Computer Science from [Western University.](https://www.uwo.ca/)
 
-I'm interested in the following areas 👇
+My interests:
 - Back-end web development
 - Mobile development (specifically Android)
 - Computer graphics research
 - ML/AI
 
-Currently in the works 👇
+Current endeavors:
 - Currently working on expanding my knowledge of the tech industry
 - Currently learning back-end web development and Android development
+- Incoming intern @ G-HiTech
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chel-mico&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chel-mico&cache_seconds=1800&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-I love working with the following languages
+My favourite languages:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-C14438?style=flat-square&logo=Java)
