@@ -4,6 +4,7 @@ I'm currently a freshman planning on pursuing a Honours Bachelor of Science in C
 
 My interests:
 - Back-end web development
+- Game development
 - Mobile development (specifically Android)
 - Computer graphics research
 - ML/AI
