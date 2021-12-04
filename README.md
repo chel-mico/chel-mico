@@ -3,15 +3,13 @@
 I'm currently a sophomore in Computer Science at [Western University.](https://www.uwo.ca/)
 
 My interests:
-- Back-end web development
-- Game development
+- Full stack web development
 - Mobile development (specifically Android)
 - Computer graphics research
 - ML/AI
 
 Current endeavors:
-- Currently working on expanding my knowledge of the tech industry
-- Currently learning back-end web development and Android development
+- Currently learning full stack web and Android development
 - Seeking summer 2022 internships
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chel-mico&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
