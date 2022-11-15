@@ -18,8 +18,8 @@ Current endeavors:
 My favourite languages:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-C14438?style=flat-square&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-Typescript-C14438?style=flat-square&logo=TypeScript)
 <!--
 ![Go](https://img.shields.io/badge/-Golang-0FF37A?style=flat-square&logo=go)
 ![Javascript](https://img.shields.io/badge/-Javascript-0FF37A?style=flat-square&logo=javascript)
