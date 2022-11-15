@@ -4,7 +4,7 @@ I'm currently a sophomore in Computer Science at [Western University.](https://w
 
 My interests:
 - Full stack web development
-- Mobile development (specifically Android)
+- Mobile development
 - Computer graphics research
 - ML/AI
 
