@@ -9,8 +9,7 @@ My interests:
 - ML/AI
 
 Current endeavors:
-- Currently learning full stack web and Android development
-- Seeking summer 2022 internships
+- Currently learning full stack web development
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chel-mico&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chel-mico&cache_seconds=1800&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
