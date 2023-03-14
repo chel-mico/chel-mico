@@ -1,15 +1,6 @@
 ### Hi, I'm Endreas
 
-I'm currently a sophomore in Computer Science at [Western University.](https://www.uwo.ca/)
-
-My interests:
-- Full stack web development
-- Mobile development
-- Computer graphics research
-- ML/AI
-
-Current endeavors:
-- Currently learning full stack web development
+I'm currently a junior in Computer Science at [Western University.](https://www.uwo.ca/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chel-mico&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chel-mico&cache_seconds=1800&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
