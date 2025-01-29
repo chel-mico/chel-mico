@@ -1,6 +1,6 @@
-### Hi, I'm Endreas
+### Hi, I'm Teddy
 
-I'm currently a junior in Computer Science at [Western University.](https://www.uwo.ca/)
+I'm currently a senior in Computer Science at [Western University.](https://www.uwo.ca/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chel-mico&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
