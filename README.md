@@ -1,8 +1,6 @@
 ### Hi, I'm Teddy
 
-I'm currently a senior in Computer Science at [Western University.](https://www.uwo.ca/)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chel-mico&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I make stuff ^_^
 
 My favourite languages:
 
@@ -14,7 +12,7 @@ My favourite languages:
 ![Javascript](https://img.shields.io/badge/-Javascript-0FF37A?style=flat-square&logo=javascript)
 -->
 
-Feel free to reach out to me anytime!
+Feel free to reach out to me anytime ^_^
 
 [![Linkedin Badge](https://img.shields.io/badge/-Endreas%20Yohannes-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/endreas-yohannes-077121208/)
 [![Gmail Badge](https://img.shields.io/badge/-endreasy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:endreasy@gmail.com)
