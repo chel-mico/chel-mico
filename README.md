@@ -14,10 +14,10 @@ My favourite languages:
 
 Feel free to reach out to me anytime ^_^
 
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-Endreas%20Yohannes-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/endreas-yohannes-077121208/)
 [![Gmail Badge](https://img.shields.io/badge/-endreasy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:endreasy@gmail.com)
 
-<!--
 **chel-mico/chel-mico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
